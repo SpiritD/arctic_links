@@ -36,4 +36,6 @@ http://bit.ly/20dd5VU
 
 давление + ветер
 
-http://bit.ly/1MszM4n
+http://bit.ly/1kganhd
+
+(http://bit.ly/1MszM4n)
