@@ -8,7 +8,7 @@ http://bit.ly/1GAqHE9
 
 ASAR
 
-bit.ly/1PYUacP
+http://bit.ly/1PYUacP
 
 MODIS_MOSAIC
 
