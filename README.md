@@ -28,7 +28,7 @@ SOLAB-SENTINEL-1
 
 http://bit.ly/1GAqNeW
 
-http://bit.ly/1GAqHE9
+(http://bit.ly/1GAqHE9)
 
 Ветер (Векторные данные)
 
