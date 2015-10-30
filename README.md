@@ -6,10 +6,6 @@ http://bit.ly/1GAqNeW
 
 http://bit.ly/1GAqHE9
 
-SOLAB-ASAR
-
-
-
 MODIS_MOSAIC
 
 http://bit.ly/1MlUDQl
